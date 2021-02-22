@@ -3,14 +3,10 @@
     "contentVersion": "1.0.0.0",
     "resources": [
         {
-            "name": "acgarmcoursestorage123",
-            "type": "Microsoft.Storage/storageAccounts",
+            "name": "wuzhengstorage123",
+            "type": "Microsoft.Resource/ResourceGroups",
             "apiVersion": "2019-04-01",
-            "location": "Southeast Asia",
-            "sku": {
-                "name": "Standard_LRS"
-            },
-            "kind": "StorageV2",
+            "location": "East US",
             "properties": {}
         }
     ]
